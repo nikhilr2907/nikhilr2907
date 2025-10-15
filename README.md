@@ -1,14 +1,12 @@
 # Nikhil Raghavan
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/University_of_Cambridge_logo.svg/1200px-University_of_Cambridge_logo.svg.png" alt="cambridge" height="30"/>
-  
+  <img src="https://th.bing.com/th/id/OIP.4pNaoqW17JPFT-6B0zhKYQHaEK?w=329&h=185&c=7&r=0&o=7&cb=12&pid=1.7&rm=3" alt="cambridge" height="30"/>
   BA Economics
 </p>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Imperial_College_London_crest.svg/1200px-Imperial_College_London_crest.svg.png" alt="imperial" height="30"/>
-  
+  <img src="https://th.bing.com/th/id/OIP.TFvGA2hrwpnIU9vNjMGXLgHaE8?w=262&h=180&c=7&r=0&o=7&cb=12&pid=1.7&rm=3" alt="imperial" height="30"/>
   MSc Artificial Intelligence
 </p>
 
@@ -23,4 +21,6 @@ Currently working on training models for music track arrangement.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-raghavan-b0b133317/)
+<a href="https://www.linkedin.com/in/nikhil-raghavan-b0b133317/">
+  <img src="https://th.bing.com/th/id/OIP.SL2Gf-U_ixigPGDa-r4JQwHaHa?w=172&h=180&c=7&r=0&o=7&cb=12&pid=1.7&rm=3" alt="linkedin" width="40" height="40"/>
+</a>
