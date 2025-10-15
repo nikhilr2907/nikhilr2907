@@ -2,11 +2,13 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/University_of_Cambridge_logo.svg/1200px-University_of_Cambridge_logo.svg.png" alt="cambridge" height="30"/>
+  
   BA Economics
 </p>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Imperial_College_London_crest.svg/1200px-Imperial_College_London_crest.svg.png" alt="imperial" height="30"/>
+  
   MSc Artificial Intelligence
 </p>
 
